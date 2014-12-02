@@ -19,6 +19,7 @@ package com.doomonafireball.betterpickers.widget;
 
 import android.support.v4.view.ViewPager;
 
+
 /**
  * A PageIndicator is responsible to show an visual indicator on the total views number and the current visible view.
  */
